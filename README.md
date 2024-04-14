@@ -1,4 +1,5 @@
-### Hi there 👋 Im 🐧 :)
+
+[![Banner](https://readme-typing-svg.demolab.com/?lines=Hi%20there%20👋%20Im%20🐧%20:]&width=1000&size=30)](https://git.io/typing-svg)
 ![visitors](https://profile-counter.glitch.me/Napenguin/count.svg)
 
 - 🔭 I’m currently working on some C++ projects.
@@ -15,7 +16,3 @@
 
 # 📝 My Top languages
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NApenguin&layout=donut&theme=dracula)
-
-
-
-
