@@ -6,10 +6,10 @@
 - 🤔 I’m looking for help with find an elegant idea to add a cursor feature to the TextEditor project.
 - 💬 You can ask me about c++ issues.
 
-![User trophy](https://github-profile-trophy.vercel.app/?username=AI-fergan&column=8&theme=dark&no-frame=true)
+![User trophy](https://github-profile-trophy.vercel.app/?username=AI-fergan&theme=dracula)
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dark)
 
-![GitHub stats](https://github-profile-trophy.vercel.app/?username=AI-fergan&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dark&rank_icon=github)
 
 
