@@ -10,5 +10,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dark&rank_icon=github)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AI-fergan)](https://github.com/AI-fergan/github-readme-stats)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AI-fergan)
 
