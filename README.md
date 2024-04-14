@@ -1,6 +1,6 @@
 ### Hi there 👋 Im 🐧 :)
 
-- 🔭 I’m currently working on some C++ tasks.
+- 🔭 I’m currently working on some C++ projects.
 - 🌱 I’m currently learning low level programming.
 - 👯 I’m looking to collaborate on any kind of projects !
 - 🤔 I’m looking for help with find an elegant idea to add a cursor feature to the TextEditor project.
