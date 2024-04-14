@@ -7,3 +7,5 @@
 - 💬 You can ask me about c++ issues.
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
