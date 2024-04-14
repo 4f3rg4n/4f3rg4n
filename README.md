@@ -8,8 +8,10 @@
 
 ![User trophy](https://github-profile-trophy.vercel.app/?username=AI-fergan&theme=dracula)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dracula&rank_icon=github)
+
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dracula&rank_icon=github)
+
 
 
