@@ -8,4 +8,4 @@
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
