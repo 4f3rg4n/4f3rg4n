@@ -8,4 +8,4 @@
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dark&rank_icon=simple)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dark&rank_icon=github)
