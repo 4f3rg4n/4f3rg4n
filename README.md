@@ -1,4 +1,5 @@
 ### Hi there 👋 Im 🐧 :)
+![visitors](https://profile-counter.glitch.me/Napenguin/count.svg)
 
 - 🔭 I’m currently working on some C++ projects.
 - 🌱 I’m currently learning low level programming.
