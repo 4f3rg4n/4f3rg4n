@@ -10,6 +10,6 @@
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dark&rank_icon=github)
+![GitHub stats](https://github-profile-trophy.vercel.app/?username=AI-fergan&theme=onedark)
 
 
