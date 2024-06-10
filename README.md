@@ -9,10 +9,10 @@
 - 💬 You can ask me about c++ issues.
 
 # 🏆 My Trophies
-![User trophy](https://github-profile-trophy.vercel.app/?username=NApenguin&column=4&margin-w=15&margin-h=15&theme=dracula)
+![User trophy](https://github-profile-trophy.vercel.app/?username=AI-fergan&column=4&margin-w=15&margin-h=15&theme=dracula)
 
 # 📊 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NApenguin&theme=dracula&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dracula&rank_icon=github)
 
 # 📝 My Top languages
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NApenguin&layout=donut&theme=dracula)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dracula)
