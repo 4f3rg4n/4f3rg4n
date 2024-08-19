@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning low level programming.
 - 👯 I’m looking to collaborate on any kind of projects !
 - 🤔 I’m looking for help with find an elegant idea to add a cursor feature to the TextEditor project.
-- 💬 You can ask me about c++ issues.
+- 💬 You can ask me about any c / cpp issues.
 
 # 🏆 My Trophies
 ![User trophy](https://github-profile-trophy.vercel.app/?username=AI-fergan&column=4&margin-w=15&margin-h=15&theme=dracula)
