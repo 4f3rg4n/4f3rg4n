@@ -1,18 +1,21 @@
+# 🎧 Noam's GitHub 🎧
+I'm a low-level developer and researcher. On my GitHub, you'll find a variety of low-level tools and projects, along with some reverse engineering (RE) and malware analysis tools and plugins that I've written myself.
 
-[![Banner](https://readme-typing-svg.demolab.com/?lines=Hi%20there%20👋%20Im%20🐧%20:]&width=1000&size=30)](https://git.io/typing-svg)
-![visitors](https://profile-counter.glitch.me/Napenguin/count.svg)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dark&show_icons=true)
 
-- 🔭 I’m currently working on some C++ projects.
-- 🌱 I’m currently learning low level programming.
-- 👯 I’m looking to collaborate on any kind of projects !
-- 🤔 I’m looking for help with find an elegant idea to add a cursor feature to the TextEditor project.
-- 💬 You can ask me about any c / cpp issues.
+## 🌱 Currently Learning
+I’m focused on improving my knowledge in:
+- Advanced reverse engineering techniques
+- Exploitation and malware analysis
 
-# 🏆 My Trophies
-![User trophy](https://github-profile-trophy.vercel.app/?username=AI-fergan&column=4&margin-w=15&margin-h=15&theme=dracula)
-
-# 📊 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-fergan&theme=dracula&rank_icon=github)
-
-# 📝 My Top languages
+## 📝 GitHub Languages
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dracula)
+
+## 📬 Contact
+- Email: [noam18.af@example.com](mailto:noam18.af@gmail.com)
+- LinkedIn: [linkedin.com/in/noam-afergan-074176284](https://www.linkedin.com/in/noam-afergan-074176284/)
+- Twitter: [@AI_fergan](https://x.com/AI_fergan)
+
+## 🏆 GitHub Trophies
+![User trophy](https://github-profile-trophy.vercel.app/?username=AI-fergan&column=4&margin-w=15&margin-h=15&theme=dracula)
