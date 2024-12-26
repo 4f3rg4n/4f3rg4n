@@ -10,7 +10,7 @@ I’m focused on improving my knowledge in:
 - Exploitation and malware analysis
 
 ## 📝 GitHub Languages
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dracula)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-fergan&layout=donut&theme=dark)
 
 ## 📬 Contact
 - Email: [noam18.af@example.com](mailto:noam18.af@gmail.com)
