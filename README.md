@@ -13,7 +13,7 @@ I’m focused on improving my knowledge in:
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafergan&layout=donut&theme=dark)
 
 ## 📬 Contact
-- Email: [noam18.af@example.com](mailto:noam18.af@gmail.com)
+- Email: [noam18.af@gmail.com](mailto:noam18.af@gmail.com)
 - LinkedIn: [linkedin.com/in/noam-afergan-074176284](https://www.linkedin.com/in/noam-afergan-074176284/)
 - Twitter: [@AI_fergan](https://x.com/AI_fergan)
 
