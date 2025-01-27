@@ -2,7 +2,7 @@
 I'm a low-level developer and researcher. On my GitHub, you'll find a variety of low-level tools and projects, along with some reverse engineering (RE) and malware analysis tools and plugins that I've written myself.
 
 I invite you to visit my blog, maybe you'll find some interesting research or a solution to a cool challenge.
-![My blog](https://ai-fergan.github.io)
+[Link to my blog](https://ai-fergan.github.io)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nafergan&theme=dark&show_icons=true)
