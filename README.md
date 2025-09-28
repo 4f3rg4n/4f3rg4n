@@ -1,6 +1,5 @@
-# 🎧 Noam's GitHub 🎧
-Hey, I’m Noam. I mostly focus on low-level R&D.
-[my blog](https://4f3rg4n.github.io)
+# 🎧 Noams GitHub 🎧
+[Noams Blog](https://4f3rg4n.github.io)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4f3rg4n&theme=dark&show_icons=true)
