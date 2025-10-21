@@ -10,7 +10,7 @@
 ## 📬 Contact
 - Email: [noam18.af@gmail.com](mailto:noam18.af@gmail.com)
 - LinkedIn: [linkedin.com/in/noam-afergan-074176284](https://www.linkedin.com/in/noam-afergan-074176284/)
-- Twitter: [@AI_fergan](https://x.com/AI_fergan)
+- Twitter: [@4f3rg4n](https://x.com/4f3rg4n)
 - Reddit: [u/Kindly-Pianist-6264](https://www.reddit.com/user/Kindly-Pianist-6264/)
 
 ## 🏆 GitHub Trophies
