@@ -1,12 +1,12 @@
 
-# 🎧 4 *f* 3 *r* g *4* n 🎧
+# 🎧 A *f* e *r* g *a* n 🎧
 Hey there! i'm noam afergan, a low-level junkie and CTF player. 
 
 I mostly break things rather than build them, but if I ever do build something you’ll find it here :)
 
 <img src="images/banner.png" width="20%" alt="Noam Afergan Banner">
 
-Any writeups, articles or cool ideas I have will end up here [My git blog](https://4f3rg4n.github.io) and sometimes here [hackmd](https://hackmd.io/@4f3rg4n).
+Any writeups, articles or stupid ideas I have will end up here [My git blog](https://4f3rg4n.github.io) and sometimes here [hackmd](https://hackmd.io/@4f3rg4n).
 
 ![trophies](https://github-trophies.vercel.app/?username=4f3rg4n&theme=tokyonight)
 
